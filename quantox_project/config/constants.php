@@ -1,0 +1,20 @@
+<?php
+return [
+    "OK" => "OK",
+    "NOK" => "NOK",
+    "CHRIST" => 2,
+    "ALAH" => 3,
+    "ONE_ABOVE_ALL" => 1,
+    "ISLAM" => "islam",
+    "CHRISTIANITY" => "christianity",
+    "FAITHS" =>array("christianity", "islam"),
+    "BLACK" =>"black",
+    "WHITE" =>"white",
+    "PURPLE" =>"purple",
+    "YELLOW" =>"yellow",
+    "MALE" =>"male",
+    "FEMALE" =>"female",
+    "MESOMORPH" =>"mesomorph",
+    "ECTOMORPH" =>"ectomorph",
+    "ENDOMORPH" =>"endomorph",
+];
