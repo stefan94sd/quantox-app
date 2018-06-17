@@ -4,6 +4,11 @@
     <div class="sufee-login d-flex align-content-center flex-wrap">
         <div class="container">
             <div class="login-content">
+                <div class="jumbotron">
+                    <h3>Quantox Project</h3>
+                    <br>
+                    Administrate your humans fast and easy.
+                </div>
                 <div class="login-form">
                     <div id="failDiv" class="sufee-alert alert with-close alert-danger alert-dismissible fade show" style="display: none;">
                         <span class="badge badge-pill badge-danger">Fail</span>
